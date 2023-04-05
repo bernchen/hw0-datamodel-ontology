@@ -1,0 +1,6 @@
+"Informix can be found at this website: https://www.ibm.com/products/informix. 
+Informix is a commercial networked relational database. 
+It uses a relational data model and client/server or cloud hosting model. 
+Java can access Informix using JDBC (Java Database Connectivitiy), and Python can access Informix using ODBC (Open Database Connectivity). 
+There are also specific libraries for Java and Python to interact, which is JDBC driver for Java and Informix Python driver for Python. 
+This information can be found at the Informix website as well as this source: https://www.ibm.com/docs/en/informix-servers/14.10?topic=documentation-product-overview."
